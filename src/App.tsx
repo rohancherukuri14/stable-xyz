@@ -1,10 +1,9 @@
 import './App.css'
 
 function App() {
-
   return (
     <>
-      <h1>Coming soon...</h1>
+      <h1 className="slussen-font">stable</h1>
     </>
   )
 }
